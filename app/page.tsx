@@ -45,9 +45,9 @@ export default function Home() {
 
         <div className="items-center justify-center flex flex-col">
           <div className="bg-white h-20 w-32 rounded-full shadow-lg shadow-red-700 items-center justify-center flex">
-            <span className="text-black font-extrabold text-2xl">Pumpfun</span>
+            <span className="text-black font-extrabold text-2xl">MoonShot</span>
           </div>
-          <span>Pumpfun</span>
+          <span>MoonShot</span>
         </div>
       </div>
       <div className="flex justify-center w-full bg-white">
