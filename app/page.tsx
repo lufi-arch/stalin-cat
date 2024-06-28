@@ -43,12 +43,15 @@ export default function Home() {
           </div>
         </Link>
 
+        <Link href={"https://dexscreener.com/solana/bherzhz7gg6fop7mcxdomvykrkyasmgnl8jeqvdkq1ti"} target="blank">
+        
         <div className="items-center justify-center flex flex-col">
           <div className="bg-white h-20 w-32 rounded-full shadow-lg shadow-red-700 items-center justify-center flex">
             <span className="text-black font-extrabold text-2xl">MoonShot</span>
           </div>
           <span>MoonShot</span>
         </div>
+        </Link>
       </div>
       <div className="flex justify-center w-full bg-white">
         <span className="text-[60px] font-extrabold text-red-800">
